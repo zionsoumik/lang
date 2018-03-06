@@ -1,0 +1,361 @@
+0,1,2,3,4,5,6,sentence,8,9,10,7,12,11
+0,1,0,0,0,1,0,S Aux Not Verb O1 O2 P O3 Adv ,0,0,0,0,0,0
+1,1,0,0,1,1,0,O2 S Verb O1 P O3 Adv ,1,0,0,0,0,0
+1,0,0,0,0,0,0,Adv S Aux Verb O1 ,0,0,0,0,0,0
+0,0,0,0,0,0,1,Adv[+WH] Aux S Not Verb O1 O2 ,0,0,0,0,0,0
+1,0,0,0,0,0,0,O2 S Verb O1 ,1,0,0,0,0,0
+0,0,1,0,0,0,0,Verb O1 Adv ,0,0,0,0,0,0
+1,1,0,0,1,0,0,O2 S Aux Not Verb O1 P O3 ,1,0,0,0,0,0
+0,0,0,1,0,0,0,Aux S Not Verb O1 ,0,0,0,0,0,0
+1,0,0,0,0,0,0,Adv S Aux Never Verb O1 O2 ,0,0,0,0,0,0
+1,1,0,0,0,1,0,Adv S Aux Verb O1 O2 P O3 ,0,0,0,0,0,0
+0,0,0,0,0,0,0,O1 S Aux Not Verb O2 ,1,0,0,0,0,0
+0,0,0,0,0,0,1,Adv[+WH] Aux S Never Verb ,0,1,0,0,0,0
+0,0,0,1,0,0,0,Aux S Never Verb O1 Adv ,0,0,0,0,0,0
+0,0,0,0,0,0,1,Adv[+WH] Aux S Not Verb ,0,1,0,0,0,0
+0,1,0,0,0,0,0,O1 S Aux Verb P O3 Adv ,0,0,0,0,0,0
+1,0,0,0,0,0,0,Adv S Never Verb O1 ,0,1,0,0,0,1
+0,0,0,0,0,0,1,O2[+WH] Aux S Never Verb O1 Adv ,0,0,0,0,0,0
+0,1,0,0,0,0,0,Not Verb O1 O2 P O3 ,0,0,0,0,0,0
+0,1,0,0,0,0,0,O1 S Verb P O3 Adv ,0,0,0,0,0,0
+1,1,0,0,1,1,0,O2 S Aux Not Verb O1 P O3 Adv ,1,0,0,0,0,0
+0,0,0,0,0,0,1,S[+WH] Aux Never Verb ,0,1,0,0,0,0
+0,0,0,0,0,0,1,O1[+WH] Aux S Never Verb O2 Adv ,0,0,0,0,0,0
+0,0,0,0,0,0,0,O1 S Never Verb O2 ,1,0,0,0,0,0
+0,0,1,0,0,0,0,Not Verb O1 O2 ,0,0,0,0,0,0
+0,0,0,0,0,0,0,O3 S Never Verb P ,0,0,0,1,0,0
+0,0,0,0,0,0,0,O1 S Aux Never Verb O2 ,1,0,0,0,0,0
+0,0,0,0,0,0,1,O3[+WH] Aux S Not Verb O1 P ,0,0,0,1,0,0
+0,0,0,1,0,0,0,Aux S Verb O1 Adv ,0,0,0,0,0,0
+1,1,0,0,0,1,0,Adv S Aux Never Verb O1 O2 P O3 ,0,0,0,0,0,0
+0,1,0,0,0,0,0,S Aux Not Verb P O3 Adv ,0,1,0,0,0,0
+0,1,0,0,0,0,0,S Aux Not Verb O1 P O3 ,0,0,0,0,0,0
+1,0,0,0,1,1,0,O3 S Never Verb O1 O2 P Adv ,0,1,0,1,0,1
+0,1,0,1,0,0,0,Aux S Verb P O3 ,0,1,0,0,0,1
+0,0,0,0,0,0,1,O3[+WH] Aux S Never Verb O1 P Adv ,0,0,0,1,0,0
+0,0,0,0,0,0,1,O3[+WH] Aux S Verb P Adv ,0,1,0,1,0,0
+0,1,0,0,0,0,1,O1[+WH] Aux S Not Verb P O3 Adv ,0,0,0,0,0,1
+1,0,0,0,0,0,0,Adv S Aux Never Verb O1 ,0,0,0,0,0,0
+0,1,0,0,0,0,1,S[+WH] Aux Verb O1 P O3 Adv ,0,0,0,0,0,0
+0,0,0,0,0,0,0,O3 S Never Verb P Adv ,0,0,0,1,0,0
+1,0,0,0,1,1,0,O3 S Aux Never Verb O1 O2 P Adv ,0,0,0,1,0,0
+1,1,0,0,0,1,0,Adv S Verb O1 O2 P O3 ,0,0,0,0,0,0
+0,1,0,0,0,0,0,S Verb O1 P O3 ,0,0,0,0,0,0
+0,1,0,0,0,0,0,S Aux Verb O1 P O3 Adv ,0,0,0,0,0,1
+0,1,0,0,0,0,0,Not Verb P O3 Adv ,0,0,0,0,0,0
+0,0,0,0,0,0,1,Adv[+WH] Aux S Never Verb O1 ,0,0,0,0,0,0
+0,0,0,0,0,0,1,O1[+WH] Aux S Verb Adv ,0,0,0,0,0,0
+0,0,0,0,0,0,0,O1 S Verb Adv ,0,0,0,0,0,0
+0,0,0,0,0,0,1,O1[+WH] Aux S Never Verb ,0,0,0,0,0,0
+1,0,0,0,0,0,0,O2 S Aux Not Verb O1 Adv ,1,0,0,0,0,0
+0,1,0,0,0,0,1,O1[+WH] Aux S Not Verb P O3 ,0,0,0,0,0,0
+0,1,0,0,0,0,1,Adv[+WH] Aux S Verb O1 O2 P O3 ,0,0,0,0,0,0
+0,0,0,1,0,0,0,Aux S Never Verb O1 O2 ,0,0,0,0,0,0
+1,1,0,0,0,0,0,Adv S Never Verb O1 P O3 ,0,1,0,0,0,1
+0,0,1,0,0,0,0,Never Verb O1 O2 ,0,0,0,0,0,0
+0,0,0,0,0,0,1,O3[+WH] Aux S Verb O1 P ,0,0,0,1,0,0
+0,0,0,0,0,0,0,Not Verb Adv ,0,0,0,0,0,0
+0,1,0,0,0,1,0,O1 S Never Verb O2 P O3 Adv ,1,0,0,0,0,0
+0,0,0,0,0,0,1,O3[+WH] Aux S Verb O1 P Adv ,0,0,0,1,0,0
+0,0,0,1,0,0,0,Aux S Not Verb ,0,1,0,0,0,0
+0,1,0,0,0,0,1,Adv[+WH] Aux S Never Verb P O3 ,0,1,0,0,0,0
+0,0,0,0,0,0,0,O3 S Aux Never Verb P Adv ,0,1,0,1,0,0
+0,0,0,0,0,0,0,O1 S Aux Not Verb Adv ,0,0,0,0,0,0
+0,1,0,0,0,0,0,O1 S Verb O2 P O3 ,1,0,0,0,0,0
+0,1,0,0,0,1,0,S Aux Verb O1 O2 P O3 Adv ,0,0,0,0,0,0
+1,1,0,0,0,0,0,Adv S Aux Never Verb O1 P O3 ,0,0,0,0,0,0
+0,1,0,0,0,0,1,O1[+WH] Aux S Never Verb O2 P O3 Adv ,0,0,0,0,0,0
+0,0,0,0,0,0,1,O1[+WH] Aux S Never Verb O2 ,0,0,0,0,0,0
+0,0,0,0,0,0,1,S[+WH] Aux Verb O1 Adv ,0,0,0,0,0,0
+0,0,0,0,0,0,0,S Aux Not Verb O1 ,0,0,0,0,0,0
+0,1,0,1,0,0,0,Aux S Verb O1 P O3 ,0,0,0,0,0,0
+0,1,0,0,0,0,1,O2[+WH] Aux S Verb O1 P O3 Adv ,0,0,0,0,0,0
+0,1,0,0,0,0,1,Adv[+WH] Aux S Not Verb P O3 ,0,1,0,0,0,0
+0,1,0,0,0,0,0,S Verb O1 P O3 Adv ,0,0,0,0,0,0
+0,1,0,1,0,0,0,Aux S Never Verb P O3 Adv ,0,1,0,0,0,0
+0,1,0,0,0,0,0,Never Verb O1 O2 P O3 ,0,0,0,0,0,0
+0,1,0,1,0,0,0,Aux S Verb O1 O2 P O3 Adv ,0,0,0,0,0,0
+1,1,0,0,0,0,0,Adv S Verb O1 P O3 ,0,0,0,0,0,0
+0,0,0,0,0,0,0,S Aux Not Verb O1 Adv ,0,0,0,0,0,0
+0,1,0,1,0,0,0,Aux S Never Verb O1 P O3 Adv ,0,0,0,0,0,0
+1,0,0,0,1,1,0,O3 S Verb O1 O2 P Adv ,0,0,0,1,0,0
+0,1,0,0,0,1,0,O1 S Verb O2 P O3 Adv ,1,0,0,0,0,0
+0,0,0,0,0,0,1,O1[+WH] Aux S Verb O2 Adv ,0,0,0,0,0,0
+0,1,0,1,0,0,0,Aux S Not Verb P O3 Adv ,0,1,0,0,0,0
+0,0,0,0,0,0,1,O3[+WH] Aux S Not Verb O1 O2 P Adv ,0,0,0,1,0,0
+0,1,0,0,0,1,0,S Verb O1 O2 P O3 Adv ,0,0,0,0,0,0
+0,1,0,1,0,0,0,Aux S Never Verb P O3 ,0,1,0,0,0,0
+0,0,0,0,0,0,0,O1 S Aux Never Verb O2 Adv ,1,0,0,0,0,0
+0,0,0,0,0,0,0,S Aux Not Verb ,0,1,0,0,0,0
+0,0,1,0,0,0,0,Not Verb O1 O2 Adv ,0,0,0,0,0,0
+0,1,0,0,0,0,1,S[+WH] Aux Not Verb O1 O2 P O3 ,0,0,0,0,0,0
+0,0,0,0,0,0,1,S[+WH] Aux Not Verb O1 O2 ,0,0,0,0,0,0
+1,0,0,0,0,0,0,O2 S Never Verb O1 ,1,1,0,0,0,1
+0,0,0,0,0,0,1,S[+WH] Aux Not Verb Adv ,0,1,0,0,0,0
+0,1,0,0,0,0,1,Adv[+WH] Aux S Verb P O3 ,0,1,0,0,0,0
+1,1,0,0,1,0,0,O2 S Aux Never Verb O1 P O3 ,1,0,0,0,0,0
+0,0,0,0,0,0,0,O1 S Aux Verb O2 ,1,0,0,0,0,0
+0,1,0,0,0,0,0,Verb O1 O2 P O3 Adv ,0,0,0,0,0,0
+1,0,0,0,0,0,0,O2 S Verb O1 Adv ,1,0,0,0,0,0
+1,0,0,0,0,0,0,O3 S Aux Not Verb O1 P ,0,0,0,1,0,0
+0,1,0,0,0,0,0,Not Verb P O3 ,0,0,0,0,0,0
+0,1,0,1,0,0,0,Aux S Verb P O3 Adv ,0,1,0,0,0,0
+1,1,0,0,0,1,0,Adv S Aux Not Verb O1 O2 P O3 ,0,0,0,0,0,0
+0,1,0,0,0,0,0,S Verb P O3 Adv ,0,0,0,0,0,0
+0,0,0,0,0,0,0,S Verb O1 Adv ,0,0,0,0,0,0
+0,0,0,0,0,0,1,O2[+WH] Aux S Verb O1 ,0,0,0,0,0,0
+1,0,0,0,0,0,0,O2 S Never Verb O1 Adv ,1,1,0,0,0,1
+0,1,0,1,0,0,0,Aux S Verb O1 O2 P O3 ,0,0,0,0,0,0
+0,1,0,0,0,0,0,Never Verb O1 P O3 Adv ,0,0,0,0,0,0
+0,0,0,0,0,0,1,S[+WH] Aux Verb Adv ,0,1,0,0,0,0
+0,1,0,0,0,0,0,O1 S Aux Not Verb P O3 ,0,0,0,0,0,0
+0,0,0,0,0,0,1,O3[+WH] Aux S Verb O1 O2 P ,0,0,0,1,0,0
+0,1,0,0,0,0,0,S Aux Verb O1 P O3 ,0,0,0,0,0,0
+0,1,0,0,0,0,1,S[+WH] Aux Never Verb O1 P O3 ,0,0,0,0,0,0
+0,0,0,1,0,0,0,Aux S Verb Adv ,0,1,0,0,0,0
+0,1,0,0,0,0,1,S[+WH] Aux Not Verb O1 P O3 ,0,0,0,0,0,0
+0,0,0,0,0,0,0,O1 S Aux Not Verb O2 Adv ,1,0,0,0,0,0
+0,0,0,0,0,0,1,S[+WH] Aux Never Verb Adv ,0,1,0,0,0,0
+0,0,0,0,0,0,1,O1[+WH] Aux S Verb ,0,0,0,0,0,0
+0,0,0,0,0,0,0,S Verb ,0,0,0,0,0,0
+0,0,0,0,0,0,0,S Aux Never Verb Adv ,0,1,0,0,0,0
+0,0,0,0,0,0,0,O3 S Aux Not Verb P Adv ,0,1,0,1,0,0
+0,0,0,0,0,0,1,O3[+WH] Aux S Verb P ,0,1,0,1,0,0
+1,1,0,0,0,0,0,Adv S Aux Verb O1 P O3 ,0,0,0,0,0,0
+0,1,0,0,0,0,1,S[+WH] Aux Never Verb P O3 ,0,1,0,0,0,0
+0,1,0,0,0,0,0,Verb P O3 Adv ,0,0,0,0,0,0
+0,1,0,1,0,0,0,Aux S Never Verb O1 P O3 ,0,0,0,0,0,0
+0,0,0,0,0,0,1,S[+WH] Aux Not Verb O1 Adv ,0,0,0,0,0,0
+0,0,0,0,0,0,0,O1 S Never Verb ,0,0,0,0,0,0
+0,0,0,0,0,0,1,O3[+WH] Aux S Never Verb P Adv ,0,1,0,1,0,0
+0,1,0,0,0,1,0,O1 S Aux Verb O2 P O3 Adv ,1,0,0,0,0,0
+0,1,0,1,0,0,0,Aux S Not Verb O1 P O3 Adv ,0,0,0,0,0,0
+0,0,1,0,0,0,0,Never Verb O1 O2 Adv ,0,0,0,0,0,0
+0,1,0,0,0,0,0,Not Verb O1 O2 P O3 Adv ,0,0,0,0,0,0
+0,0,0,0,0,0,1,O3[+WH] Aux S Not Verb P Adv ,0,1,0,1,0,0
+1,1,0,0,1,1,0,O2 S Never Verb O1 P O3 Adv ,1,1,0,0,0,1
+0,1,0,0,0,0,1,S[+WH] Aux Never Verb O1 O2 P O3 ,0,0,0,0,0,0
+0,0,1,0,0,0,0,Never Verb O1 Adv ,0,0,0,0,0,0
+0,1,0,0,0,0,0,S Aux Verb P O3 Adv ,0,1,0,0,0,0
+0,1,0,0,0,0,1,S[+WH] Aux Never Verb O1 O2 P O3 Adv ,0,0,0,0,0,0
+0,0,0,0,0,0,1,Adv[+WH] Aux S Verb O1 ,0,0,0,0,0,0
+0,1,0,0,0,0,0,S Never Verb P O3 Adv ,0,0,0,0,0,0
+0,1,0,0,0,0,1,S[+WH] Aux Verb O1 O2 P O3 Adv ,0,0,0,0,0,0
+0,0,0,1,0,0,0,Aux S Never Verb Adv ,0,1,0,0,0,0
+0,1,0,0,0,0,0,S Never Verb O1 P O3 ,0,1,0,0,0,1
+0,0,0,0,0,0,1,Adv[+WH] Aux S Verb ,0,1,0,0,0,0
+1,0,0,0,1,0,0,O3 S Never Verb O1 O2 P ,0,1,0,1,0,1
+0,0,0,0,0,0,1,S[+WH] Aux Verb O1 ,0,0,0,0,0,0
+0,0,0,0,0,0,0,S Never Verb ,0,0,0,0,0,0
+0,0,0,0,0,0,1,S[+WH] Aux Never Verb O1 O2 Adv ,0,0,0,0,0,0
+0,0,0,0,0,0,1,O3[+WH] Aux S Never Verb P ,0,1,0,1,0,0
+0,0,0,0,0,0,0,O3 S Aux Not Verb P ,0,1,0,1,0,0
+1,1,0,0,1,1,0,O2 S Aux Never Verb O1 P O3 Adv ,1,0,0,0,0,0
+0,0,0,0,0,0,0,O1 S Verb O2 ,1,0,0,0,0,0
+0,0,0,0,0,0,0,S Aux Never Verb O1 O2 Adv ,0,0,0,0,0,0
+0,1,0,0,0,0,0,O1 S Aux Never Verb P O3 Adv ,0,0,0,0,0,0
+0,1,0,0,0,0,1,S[+WH] Aux Not Verb P O3 ,0,1,0,0,0,0
+0,1,0,0,0,0,0,S Aux Never Verb O1 P O3 Adv ,0,0,0,0,0,0
+0,0,0,0,0,0,0,Adv S Aux Verb ,0,1,0,0,0,0
+0,0,1,0,0,0,0,Not Verb O1 Adv ,0,0,0,0,0,0
+1,0,0,0,0,0,0,O3 S Never Verb O1 P Adv ,0,1,0,1,0,1
+0,0,0,1,0,0,0,Aux S Verb O1 O2 Adv ,0,0,0,0,0,0
+1,0,0,0,0,0,0,O2 S Aux Verb O1 ,1,0,0,0,0,0
+1,0,0,0,0,0,0,O3 S Aux Never Verb O1 P Adv ,0,0,0,1,0,0
+0,1,0,0,0,0,0,Adv S Aux Never Verb P O3 ,0,1,0,0,0,0
+0,1,0,0,0,1,0,S Never Verb O1 O2 P O3 Adv ,0,1,0,0,0,1
+1,0,0,0,0,0,0,O3 S Aux Not Verb O1 P Adv ,0,0,0,1,0,0
+0,1,0,0,0,0,0,Not Verb O1 P O3 Adv ,0,0,0,0,0,0
+0,0,0,0,0,0,0,Never Verb ,0,0,0,0,0,0
+0,1,0,0,0,0,0,S Never Verb P O3 ,0,0,0,0,0,0
+0,0,0,0,0,0,1,O1[+WH] Aux S Not Verb O2 ,0,0,0,0,0,0
+0,0,0,0,0,0,0,S Aux Verb O1 O2 Adv ,0,0,0,0,0,1
+0,1,0,0,0,0,0,Adv S Aux Verb P O3 ,0,1,0,0,0,0
+0,0,0,1,0,0,0,Aux S Never Verb ,0,1,0,0,0,0
+0,1,0,0,0,0,0,Verb O1 O2 P O3 ,0,0,0,0,0,0
+0,1,0,0,0,0,0,O1 S Aux Verb P O3 ,0,0,0,0,0,0
+0,1,0,0,0,0,1,Adv[+WH] Aux S Never Verb O1 O2 P O3 ,0,0,0,0,0,0
+0,0,1,0,0,0,0,Not Verb O1 ,0,0,0,0,0,0
+0,1,0,0,0,0,0,S Aux Verb P O3 ,0,1,0,0,0,0
+0,0,0,0,0,0,1,Adv[+WH] Aux S Never Verb O1 O2 ,0,0,0,0,0,0
+0,1,0,1,0,0,0,Aux S Never Verb O1 O2 P O3 Adv ,0,0,0,0,0,0
+0,0,0,1,0,0,0,Aux S Not Verb Adv ,0,1,0,0,0,0
+0,1,0,0,0,0,1,O1[+WH] Aux S Not Verb O2 P O3 ,0,0,0,0,0,1
+0,1,0,0,0,0,1,O1[+WH] Aux S Never Verb P O3 ,0,0,0,0,0,0
+0,1,0,0,0,0,1,Adv[+WH] Aux S Verb O1 P O3 ,0,0,0,0,0,0
+0,1,0,0,0,0,1,S[+WH] Aux Never Verb O1 P O3 Adv ,0,0,0,0,0,0
+0,0,0,0,0,0,0,S Never Verb O1 Adv ,0,1,0,0,0,1
+1,0,0,0,0,0,0,Adv S Verb O1 ,0,0,0,0,0,0
+0,1,0,0,0,0,1,O1[+WH] Aux S Verb O2 P O3 Adv ,0,0,0,0,0,0
+0,0,1,0,0,0,0,Verb O1 O2 ,0,0,0,0,0,0
+0,1,0,0,0,0,1,Adv[+WH] Aux S Not Verb O1 O2 P O3 ,0,0,0,0,0,0
+1,1,0,0,1,0,0,O2 S Verb O1 P O3 ,1,0,0,0,0,0
+0,1,0,0,0,0,1,O1[+WH] Aux S Never Verb O2 P O3 ,0,0,0,0,0,0
+0,0,0,0,0,0,1,O3[+WH] Aux S Not Verb O1 O2 P ,0,0,0,1,0,0
+0,0,0,0,0,0,0,Verb ,0,0,0,0,0,0
+0,0,0,0,0,0,1,O1[+WH] Aux S Verb O2 ,0,0,0,0,0,0
+0,1,0,0,0,0,0,O1 S Never Verb P O3 ,0,0,0,0,0,0
+0,1,0,0,0,0,0,S Never Verb O1 P O3 Adv ,0,1,0,0,0,1
+0,0,0,0,0,0,1,S[+WH] Aux Not Verb ,0,1,0,0,0,0
+0,0,0,0,0,0,0,O1 S Verb O2 Adv ,1,0,0,0,0,0
+0,1,0,1,0,0,0,Aux S Not Verb O1 O2 P O3 Adv ,0,0,0,0,0,0
+0,1,0,0,0,0,1,O2[+WH] Aux S Never Verb O1 P O3 Adv ,0,0,0,0,0,0
+0,0,0,0,0,0,1,S[+WH] Aux Never Verb O1 ,0,0,0,0,0,0
+0,0,0,0,0,0,1,S[+WH] Aux Verb ,0,1,0,0,0,0
+0,0,0,0,0,0,1,O3[+WH] Aux S Not Verb O1 P Adv ,0,0,0,1,0,0
+0,1,0,0,0,1,0,O1 S Aux Never Verb O2 P O3 Adv ,1,0,0,0,0,0
+0,0,0,0,0,0,0,S Aux Verb Adv ,0,1,0,0,0,0
+0,1,0,0,0,0,0,Never Verb P O3 ,0,0,0,0,0,0
+0,1,0,0,0,0,1,S[+WH] Aux Not Verb P O3 Adv ,0,1,0,0,0,0
+0,0,0,0,0,0,0,O1 S Never Verb O2 Adv ,1,0,0,0,0,0
+0,0,0,1,0,0,0,Aux S Never Verb O1 O2 Adv ,0,0,0,0,0,0
+0,0,0,0,0,0,0,S Verb O1 O2 Adv ,0,0,0,0,0,0
+0,0,0,1,0,0,0,Aux S Verb O1 O2 ,0,0,0,0,0,0
+0,0,0,0,0,0,0,O1 S Verb ,0,0,0,0,0,0
+1,0,0,0,1,0,0,O3 S Aux Verb O1 O2 P ,0,0,0,1,0,0
+0,0,0,0,0,0,0,S Never Verb O1 O2 Adv ,0,1,0,0,0,1
+0,0,0,0,0,0,0,O1 S Aux Verb O2 Adv ,1,0,0,0,0,0
+0,1,0,0,0,0,0,Never Verb O1 P O3 ,0,0,0,0,0,0
+1,0,0,0,0,0,0,Adv S Aux Not Verb O1 O2 ,0,0,0,0,0,0
+0,1,0,0,0,0,0,Never Verb P O3 Adv ,0,0,0,0,0,0
+0,0,0,0,0,0,0,S Never Verb Adv ,0,0,0,0,0,0
+0,0,1,0,0,0,0,Verb O1 ,0,0,0,0,0,0
+0,1,0,0,0,1,0,S Aux Never Verb O1 O2 P O3 Adv ,0,0,0,0,0,0
+0,0,0,0,0,0,0,S Aux Never Verb O1 Adv ,0,0,0,0,0,0
+0,1,0,0,0,0,0,O1 S Never Verb P O3 Adv ,0,0,0,0,0,0
+0,1,0,0,0,0,0,S Verb P O3 ,0,0,0,0,0,0
+0,0,0,0,0,0,0,S Verb O1 O2 ,0,0,0,0,0,0
+0,0,0,1,0,0,0,Aux S Never Verb O1 ,0,0,0,0,0,0
+1,1,0,0,0,1,0,Adv S Never Verb O1 O2 P O3 ,0,1,0,0,0,1
+0,0,0,0,0,0,0,O3 S Aux Never Verb P ,0,1,0,1,0,0
+0,0,0,1,0,0,0,Aux S Not Verb O1 O2 ,0,0,0,0,0,0
+0,1,0,0,0,0,1,S[+WH] Aux Verb P O3 Adv ,0,1,0,0,0,0
+0,0,0,0,0,0,1,O1[+WH] Aux S Never Verb Adv ,0,0,0,0,0,0
+0,1,0,0,0,0,0,S Aux Never Verb O1 O2 P O3 ,0,0,0,0,0,0
+0,0,0,0,0,0,0,S Aux Verb O1 Adv ,0,0,0,0,0,0
+0,0,0,0,0,0,1,S[+WH] Aux Not Verb O1 ,0,0,0,0,0,0
+1,0,0,0,0,0,0,O3 S Never Verb O1 P ,0,1,0,1,0,1
+0,0,0,0,0,0,1,O3[+WH] Aux S Never Verb O1 O2 P ,0,0,0,1,0,0
+0,0,0,0,0,0,1,O1[+WH] Aux S Not Verb ,0,0,0,0,0,0
+1,1,0,0,1,1,0,O2 S Aux Verb O1 P O3 Adv ,1,0,0,0,0,0
+0,1,0,0,0,0,1,Adv[+WH] Aux S Never Verb O1 P O3 ,0,0,0,0,0,0
+0,1,0,0,0,0,1,O2[+WH] Aux S Verb O1 P O3 ,0,0,0,0,0,0
+0,0,0,0,0,0,0,S Aux Never Verb ,0,1,0,0,0,0
+0,1,0,0,0,0,0,S Never Verb O1 O2 P O3 ,0,1,0,0,0,1
+0,0,0,0,0,0,0,O1 S Aux Not Verb ,0,0,0,0,0,0
+0,1,0,0,0,1,0,O1 S Aux Not Verb O2 P O3 Adv ,1,0,0,0,0,0
+1,0,0,0,0,0,0,O3 S Verb O1 P ,0,0,0,1,0,0
+0,0,0,0,0,0,1,S[+WH] Aux Verb O1 O2 Adv ,0,0,0,0,0,0
+0,1,0,0,0,0,0,Verb P O3 ,0,0,0,0,0,0
+1,0,0,0,0,0,0,O2 S Aux Never Verb O1 Adv ,1,0,0,0,0,0
+0,0,0,0,0,0,0,S Aux Verb O1 ,0,0,0,0,0,0
+0,1,0,0,0,0,1,O1[+WH] Aux S Verb P O3 Adv ,0,0,0,0,0,0
+1,0,0,0,0,0,0,Adv S Never Verb O1 O2 ,0,1,0,0,0,1
+0,0,0,0,0,0,0,Verb Adv ,0,0,0,0,0,0
+1,1,0,0,0,0,0,Adv S Aux Not Verb O1 P O3 ,0,0,0,0,0,0
+0,1,0,0,0,0,0,Adv S Verb P O3 ,0,0,0,0,0,0
+1,0,0,0,0,0,0,Adv S Aux Verb O1 O2 ,0,0,0,0,0,0
+0,1,0,0,0,0,0,Verb O1 P O3 ,0,0,0,0,0,0
+0,1,0,0,0,0,1,S[+WH] Aux Not Verb O1 P O3 Adv ,0,0,0,0,0,0
+0,0,0,0,0,0,0,S Never Verb O1 O2 ,0,1,0,0,0,1
+0,1,0,0,0,0,0,S Aux Never Verb P O3 ,0,1,0,0,0,0
+1,0,0,0,0,0,0,Adv S Verb O1 O2 ,0,0,0,0,0,0
+0,0,1,0,0,0,0,Never Verb O1 ,0,0,0,0,0,0
+0,0,0,0,0,0,1,O3[+WH] Aux S Never Verb O1 P ,0,0,0,1,0,0
+0,1,0,0,0,0,1,S[+WH] Aux Verb P O3 ,0,1,0,0,0,0
+0,1,0,0,0,0,1,O2[+WH] Aux S Never Verb O1 P O3 ,0,0,0,0,0,0
+0,0,0,1,0,0,0,Aux S Verb ,0,1,0,0,0,0
+0,1,0,0,0,0,0,S Aux Not Verb O1 P O3 Adv ,0,0,0,0,0,0
+0,0,0,0,0,0,0,Adv S Verb ,0,0,0,0,0,0
+0,0,0,0,0,0,0,O3 S Aux Verb P Adv ,0,1,0,1,0,0
+1,0,0,0,1,1,0,O3 S Aux Not Verb O1 O2 P Adv ,0,0,0,1,0,0
+1,0,0,0,0,0,0,O2 S Aux Not Verb O1 ,1,0,0,0,0,0
+1,1,0,0,1,0,0,O2 S Aux Verb O1 P O3 ,1,0,0,0,0,0
+0,0,0,0,0,0,1,Adv[+WH] Aux S Verb O1 O2 ,0,0,0,0,0,0
+0,1,0,0,0,0,1,O2[+WH] Aux S Not Verb O1 P O3 Adv ,0,0,0,0,0,0
+0,1,0,0,0,0,1,O1[+WH] Aux S Never Verb P O3 Adv ,0,0,0,0,0,0
+1,0,0,0,0,0,0,O3 S Verb O1 P Adv ,0,0,0,1,0,0
+0,0,0,0,0,0,1,O3[+WH] Aux S Not Verb P ,0,1,0,1,0,0
+0,1,0,0,0,0,0,O1 S Aux Not Verb O2 P O3 ,1,0,0,0,0,0
+1,0,0,0,1,0,0,O3 S Verb O1 O2 P ,0,0,0,1,0,0
+0,1,0,0,0,0,0,Never Verb O1 O2 P O3 Adv ,0,0,0,0,0,0
+0,0,0,0,0,0,0,O1 S Aux Verb ,0,0,0,0,0,0
+0,0,0,0,0,0,0,S Aux Not Verb O1 O2 ,0,0,0,0,0,0
+0,1,0,0,0,0,0,S Aux Never Verb P O3 Adv ,0,1,0,0,0,1
+0,1,0,1,0,0,0,Aux S Verb O1 P O3 Adv ,0,0,0,0,0,0
+0,1,0,0,0,0,0,Not Verb O1 P O3 ,0,0,0,0,0,0
+0,0,0,0,0,0,0,Adv S Aux Not Verb ,0,1,0,0,0,0
+0,0,0,0,0,0,0,Never Verb Adv ,0,0,0,0,0,0
+0,1,0,0,0,0,1,S[+WH] Aux Verb O1 O2 P O3 ,0,0,0,0,0,0
+0,0,0,0,0,0,1,O3[+WH] Aux S Verb O1 O2 P Adv ,0,0,0,1,0,0
+0,1,0,0,0,0,0,S Aux Verb O1 O2 P O3 ,0,0,0,0,0,0
+0,0,0,1,0,0,0,Aux S Verb O1 ,0,0,0,0,0,0
+0,1,0,0,0,0,1,O2[+WH] Aux S Not Verb O1 P O3 ,0,0,0,0,0,0
+1,0,0,0,1,0,0,O3 S Aux Not Verb O1 O2 P ,0,0,0,1,0,0
+0,0,0,0,0,0,0,S Aux Not Verb O1 O2 Adv ,0,0,0,0,0,0
+0,1,0,0,0,0,0,S Aux Not Verb O1 O2 P O3 ,0,0,0,0,0,0
+0,1,0,0,0,0,1,S[+WH] Aux Never Verb P O3 Adv ,0,1,0,0,0,0
+0,0,0,0,0,0,0,O3 S Aux Verb P ,0,1,0,1,0,0
+0,0,0,0,0,0,0,O3 S Verb P ,0,0,0,1,0,0
+0,1,0,0,0,0,1,S[+WH] Aux Not Verb O1 O2 P O3 Adv ,0,0,0,0,0,0
+0,0,0,0,0,0,0,O3 S Verb P Adv ,0,0,0,1,0,0
+0,1,0,0,0,0,0,Adv S Aux Not Verb P O3 ,0,1,0,0,0,0
+0,0,0,0,0,0,0,S Never Verb O1 ,0,1,0,0,0,1
+0,0,0,0,0,0,1,S[+WH] Aux Not Verb O1 O2 Adv ,0,0,0,0,0,0
+0,1,0,0,0,0,0,O1 S Aux Never Verb O2 P O3 ,1,0,0,0,0,0
+0,0,0,0,0,0,1,O2[+WH] Aux S Not Verb O1 ,0,0,0,0,0,0
+0,1,0,0,0,0,0,Adv S Never Verb P O3 ,0,0,0,0,0,0
+0,0,0,0,0,0,0,Adv S Never Verb ,0,0,0,0,0,0
+0,1,0,0,0,0,0,S Aux Not Verb P O3 ,0,1,0,0,0,0
+1,0,0,0,0,0,0,O2 S Aux Verb O1 Adv ,1,0,0,0,0,0
+0,1,0,0,0,0,0,S Aux Never Verb O1 P O3 ,0,0,0,0,0,0
+0,0,0,0,0,0,1,S[+WH] Aux Never Verb O1 Adv ,0,0,0,0,0,0
+0,1,0,0,0,0,0,O1 S Never Verb O2 P O3 ,1,0,0,0,0,0
+0,1,0,1,0,0,0,Aux S Not Verb P O3 ,0,1,0,0,0,0
+0,0,0,0,0,0,1,O1[+WH] Aux S Not Verb Adv ,0,0,0,0,0,0
+0,0,0,0,0,0,0,S Aux Never Verb O1 ,0,0,0,0,0,0
+0,1,0,0,0,0,1,Adv[+WH] Aux S Not Verb O1 P O3 ,0,0,0,0,0,0
+0,0,0,0,0,0,0,S Verb O1 ,0,0,0,0,0,0
+0,1,0,0,0,0,1,O1[+WH] Aux S Verb P O3 ,0,0,0,0,0,0
+0,1,0,1,0,0,0,Aux S Not Verb O1 O2 P O3 ,0,0,0,0,0,0
+0,0,0,0,0,0,0,S Aux Verb ,0,1,0,0,0,0
+0,0,0,0,0,0,1,O1[+WH] Aux S Not Verb O2 Adv ,0,0,0,0,0,0
+1,0,0,0,0,0,0,Adv S Aux Not Verb O1 ,0,0,0,0,0,0
+0,0,0,0,0,0,1,O2[+WH] Aux S Not Verb O1 Adv ,0,0,0,0,0,0
+1,0,0,0,1,0,0,O3 S Aux Never Verb O1 O2 P ,0,0,0,1,0,0
+0,0,0,0,0,0,0,O1 S Aux Never Verb Adv ,0,0,0,0,0,0
+0,0,0,0,0,0,0,S Aux Never Verb O1 O2 ,0,0,0,0,0,1
+0,0,0,1,0,0,0,Aux S Not Verb O1 O2 Adv ,0,0,0,0,0,0
+0,1,0,0,0,0,1,O1[+WH] Aux S Not Verb O2 P O3 Adv ,0,0,0,0,0,0
+0,1,0,0,0,0,0,O1 S Aux Verb O2 P O3 ,1,0,0,0,0,0
+1,0,0,0,0,0,0,O3 S Aux Verb O1 P ,0,0,0,1,0,0
+0,0,0,0,0,0,1,Adv[+WH] Aux S Not Verb O1 ,0,0,0,0,0,0
+0,0,0,0,0,0,0,O1 S Aux Verb Adv ,0,0,0,0,0,0
+0,0,0,0,0,0,0,S Aux Verb O1 O2 ,0,0,0,0,0,0
+0,1,0,0,0,0,0,S Verb O1 O2 P O3 ,0,0,0,0,0,0
+1,0,0,0,0,0,0,O3 S Aux Verb O1 P Adv ,0,0,0,1,0,0
+0,0,0,0,0,0,0,O1 S Aux Never Verb ,0,0,0,0,0,0
+0,0,0,0,0,0,0,S Aux Not Verb Adv ,0,1,0,0,0,0
+0,0,0,0,0,0,1,O2[+WH] Aux S Never Verb O1 ,0,0,0,0,0,0
+0,1,0,0,0,0,0,Verb O1 P O3 Adv ,0,0,0,0,0,0
+0,0,1,0,0,0,0,Verb O1 O2 Adv ,0,0,0,0,0,0
+1,0,0,0,0,0,0,O2 S Aux Never Verb O1 ,1,0,0,0,0,0
+0,1,0,0,0,0,0,O1 S Aux Not Verb P O3 Adv ,0,0,0,0,0,0
+1,0,0,0,1,1,0,O3 S Aux Verb O1 O2 P Adv ,0,0,0,1,0,0
+0,0,0,0,0,0,0,Not Verb ,0,0,0,0,0,0
+0,1,0,1,0,0,0,Aux S Never Verb O1 O2 P O3 ,0,0,0,0,0,0
+0,0,0,1,0,0,0,Aux S Not Verb O1 Adv ,0,0,0,0,0,0
+0,0,0,0,0,0,1,S[+WH] Aux Verb O1 O2 ,0,0,0,0,0,0
+1,0,0,0,0,0,0,O3 S Aux Never Verb O1 P ,0,0,0,1,0,0
+0,0,0,0,0,0,0,S Verb Adv ,0,0,0,0,0,0
+0,0,0,0,0,0,1,S[+WH] Aux Never Verb O1 O2 ,0,0,0,0,0,0
+0,0,0,0,0,0,1,O2[+WH] Aux S Verb O1 Adv ,0,0,0,0,0,0
+0,0,0,0,0,0,1,O3[+WH] Aux S Never Verb O1 O2 P Adv ,0,0,0,1,0,0
+0,1,0,0,0,0,1,O1[+WH] Aux S Verb O2 P O3 ,0,0,0,0,0,0
+0,1,0,1,0,0,0,Aux S Not Verb O1 P O3 ,0,0,0,0,0,0
+0,1,0,0,0,0,1,S[+WH] Aux Verb O1 P O3 ,0,0,0,0,0,0
+0,0,0,0,0,0,0,O1 S Never Verb Adv ,0,0,0,0,0,0
+0,0,0,0,0,0,0,Adv S Aux Never Verb ,0,1,0,0,0,0
+0,1,0,0,0,0,0,O1 S Verb P O3 ,0,0,0,0,0,0
+1,1,0,0,1,0,0,O2 S Never Verb O1 P O3 ,1,1,0,0,0,1
+0,1,0,0,0,0,0,O1 S Aux Never Verb P O3 ,0,0,0,0,0,0
